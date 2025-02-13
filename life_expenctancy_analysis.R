@@ -1,4 +1,3 @@
-# Google Data Analytics Capstone Project
 # The goal of this analysis is to identify correlations between characteristics
 # of census tracts and their life expectancy
 # Created: 03Febuary2025
