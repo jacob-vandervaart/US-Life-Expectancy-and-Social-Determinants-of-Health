@@ -83,8 +83,6 @@ unique(sdoh_2010$tractfips == sdoh_2011$tractfips &
          sdoh_2010$tractfips == sdoh_2013$tractfips &
          sdoh_2010$tractfips == sdoh_2014$tractfips &
          sdoh_2010$tractfips == sdoh_2015$tractfips)
-########### 271 variables seems to be too many
-# manually review and parse down later, or perhaps take only the most correlated? 
 
 
 # create new dataframe that is the average for each variable across the 6 years.
