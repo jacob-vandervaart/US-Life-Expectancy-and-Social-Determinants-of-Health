@@ -5,7 +5,7 @@ This project analyzes the relationship between social determinants of health (SD
 
 ## Data Sources
 The life expectancy data were sourced from the [CDC](https://archive.cdc.gov/#/details?q=life%20expectancy&start=0&rows=10&url=https://www.cdc.gov/nchs/data-visualization/life-expectancy/index.html).\
-The social determinants of health data were sourced from the [Agency for Healthcare Research and Quality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)\
+The social determinants of health data were sourced from the [Agency for Healthcare Research and Quality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 
 ## Skills Demonstrated
 This project showcases proficiency in the following areas:
@@ -17,7 +17,7 @@ This project showcases proficiency in the following areas:
 
 ### Statistical Analysis
 - Calculating population-weighted averages.
-- Computing correlation coefficients between life expectancy and various SDOH variables.\
+- Computing correlation coefficients between life expectancy and various SDOH variables.
 
 ## Dashboard
 [Tableau Dashboard](https://public.tableau.com/views/USLifeExpectancyandSocialDeterminantsofHealth20102015/Measures?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
